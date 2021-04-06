@@ -1,0 +1,7 @@
+C:\Users\Dorka\Czechitas\C#\Projekt\Projekt_pokusy2\bin\Debug\Projekt_pokusy2.exe.config
+C:\Users\Dorka\Czechitas\C#\Projekt\Projekt_pokusy2\bin\Debug\Projekt_pokusy2.exe
+C:\Users\Dorka\Czechitas\C#\Projekt\Projekt_pokusy2\bin\Debug\Projekt_pokusy2.pdb
+C:\Users\Dorka\Czechitas\C#\Projekt\Projekt_pokusy2\obj\Debug\Projekt_pokusy2.csprojAssemblyReference.cache
+C:\Users\Dorka\Czechitas\C#\Projekt\Projekt_pokusy2\obj\Debug\Projekt_pokusy2.csproj.CoreCompileInputs.cache
+C:\Users\Dorka\Czechitas\C#\Projekt\Projekt_pokusy2\obj\Debug\Projekt_pokusy2.exe
+C:\Users\Dorka\Czechitas\C#\Projekt\Projekt_pokusy2\obj\Debug\Projekt_pokusy2.pdb
